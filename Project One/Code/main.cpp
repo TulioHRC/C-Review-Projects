@@ -10,7 +10,7 @@ using namespace std; // This means that we are using functions of the std lib, s
 
 int year = 2021; // int is the type of variable, and always remember to use ";" in the end of a coding line
 
-int main(){
+int main(){ // the main function always will be the first loaded, and it needs to be an int variable
     cout << "Hello World!" << endl;
 /*
     cout it's like print on Python. << it's just a separation to show information in the console
@@ -29,5 +29,5 @@ int main(){
     cout << endl << "Oh thanks! You typed " << number << " and its square root is " << sqrt(number) << endl;
     // sqrt it's a cmath function
 
-    return 0;
+    return 0; // Int variables need a return
 }
