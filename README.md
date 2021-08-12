@@ -1,6 +1,7 @@
 # C-Review-Projects
 
 This will be some simple C++ projects for me to review the language, and to prepare for my school subject. Will be only four simple projects, reviewing all the basic aspects of the language, that I know.
+Obs.: I used CodeBlocks, so the folders will be a little confusing.
 
 Plan:
 
