@@ -10,8 +10,8 @@ Plan:
 ### Basic project: Using comments, print and input.
 The program will ask for a number and print this √number.
 ### Conditional project: Using IF, switch and “Operação ternária”.
-The program will ask for a number between 1 and 5, using switch change this to his double, and then use “Operação ternária” to choose between 0 and 1.
+The program will ask for a number between 1 and 5, using switch change this to other number, and then use “Operação ternária” to choose between 0 and 1.
 ### Iteration project: Using for and while.
-While to ask a number, using conditional to a number not str or others types, and then show x “números primos” using for.
+Ask a number, and then show x “números primos” using for and while.
 ### Functions project: Using definition of functions.
 Find the x “número primo” by order.
